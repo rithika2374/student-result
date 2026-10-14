@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaResult - Student Examination & Grade Portal",
+  "description": "Comprehensive student result lookup, official grade transcript, performance analytics, batch leaderboard, and marksheet generation portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
